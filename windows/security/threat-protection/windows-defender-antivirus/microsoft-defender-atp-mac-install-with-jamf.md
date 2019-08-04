@@ -41,7 +41,7 @@ In addition, for JAMF deployment, you need to be familiar with JAMF administrati
 
 Download the installation and onboarding packages from Windows Defender Security Center:
 
-1. In Windows Defender Security Center, go to **Settings > device Management > Onboarding**.
+1. In Windows Defender Security Center, go to **Settings > Machine Management > Onboarding**.
 2. In Section 1 of the page, set the operating system to **Linux, macOS, iOS or Android** and deployment method to **Mobile Device Management / Microsoft Intune**.
 3. In Section 2 of the page, select **Download installation package**. Save it as _wdav.pkg_ to a local directory.
 4. In Section 2 of the page, select **Download onboarding package**. Save it as _WindowsDefenderATPOnboardingPackage.zip_ to the same directory.
